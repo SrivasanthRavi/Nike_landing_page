@@ -1,0 +1,179 @@
+body
+{
+    font-family: sans-serif;
+    color: white;
+    background-image: linear-gradient(to right,#201f45, #2b2f5f);
+    object-fit: cover;
+}
+
+.firstpage
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    color: #fff;
+    z-index: -2;
+}
+
+.nav-container
+{
+    display: flex;
+}
+
+.nav-container ul
+{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    width: 100%;
+    justify-content: center;
+
+}
+
+.nav-container a
+{
+    text-decoration: none;
+    color: grey;
+    padding: 10px;
+}
+
+
+.air
+{
+   font-weight: 900;
+   padding: 0;
+   margin-bottom: 0;
+   font-style: italic;
+   background: linear-gradient(to right, #f32170,#8C2CDD, #5369E4, #13AAE6);
+   -webkit-text-fill-color: transparent;
+   -webkit-background-clip: text;
+   background-clip: text;
+   margin-left: 140px;
+   font-size: 6rem;
+   margin-top: -500px;
+}   
+
+.jordan
+{    
+    margin-top: -110px;
+    padding: 0;
+    margin-bottom: 0;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 250px;
+    background: linear-gradient(to right, #f32170,#8C2CDD, #5369E4, #13AAE6);
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+    background-clip: text;
+    position: relative;
+
+}   
+
+.containerhead
+{
+    margin-left: 170px;
+    margin-top: -40px;
+}
+
+
+.bimg
+{
+    margin-top: -400px;
+    margin-left: 230px;
+
+}
+
+.airjordan1
+{
+   margin-top: -60px;
+   margin-left: 880px;
+   font-weight: 900;
+   padding: 0;
+   margin-bottom: 0;
+   font-style: italic;
+   font-size: 2rem;
+}
+
+.gottashine
+{
+    margin-top: -1px;
+   margin-left: 1000px;
+   font-weight: 900;
+   font-style: italic;
+    background: linear-gradient(to right, #f32170,#8C2CDD, #5369E4, #13AAE6);
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+    background-clip: text;
+
+}
+
+.bottomconsole ul
+{
+    display: flex;
+    gap: 50px;
+    margin-top: -10px;
+    justify-content: center;
+}
+
+
+.li1
+{
+    list-style-type: none;
+    padding: 10px;
+
+}
+
+.bottomconsole
+{
+    width: 100%;
+
+}
+
+.active
+{
+    background-color: rgba(0, 0, 0, 0.156);
+    border-radius: 10px;
+
+}
+
+.bottomconsole a
+{
+    text-decoration: none;
+    color: grey;
+}
+
+.rlogo
+{
+    align-items: center;
+    padding-top: 15px;
+    padding-right: 20px;
+}
+
+
+.bgimg
+{
+    margin-left: 500px;
+    margin-top: 100px;
+
+}
+
+
+.bgimg2
+{
+    margin-top: -480px;
+    margin-left: 70px;
+    position: relative;
+}
+
+
+.lt
+{
+    background-color: rgba(0, 0, 0, 0.152);
+    border-radius: 10px
+}
+
+.gt
+{
+    background-color: rgba(0, 0, 0, 0.152);
+    border-radius: 10px
+}
